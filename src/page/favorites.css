@@ -1,0 +1,9 @@
+.favorites__page{
+    background: url('../image/clouds.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    
+    }

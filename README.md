@@ -18,7 +18,6 @@ The project is organized into separate components to keep the code modular and m
 - **Fetch and Display Employees**: Fetches employee data from a backend service and displays it in individual cards.
 - **Search and Filter**: Provides search functionality and the ability to filter employees by status.
 - **Status Update**: Allows the modification of each employee’s status with predefined options.
-- **Add Employee**: Supports adding new employees through a modal form with validation.
 
 ## Requirements
 
